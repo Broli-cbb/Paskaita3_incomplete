@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fundamentals_learning_class_method/1.0.0": {
+        "runtime": {
+          "Fundamentals_learning_class_method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentals_learning_class_method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

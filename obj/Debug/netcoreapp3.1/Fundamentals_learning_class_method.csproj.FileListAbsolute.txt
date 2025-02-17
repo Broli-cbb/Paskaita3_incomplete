@@ -1,0 +1,12 @@
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/bin/Debug/netcoreapp3.1/Fundamentals_learning_class_method.deps.json
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/bin/Debug/netcoreapp3.1/Fundamentals_learning_class_method.runtimeconfig.json
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/bin/Debug/netcoreapp3.1/Fundamentals_learning_class_method.runtimeconfig.dev.json
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/bin/Debug/netcoreapp3.1/Fundamentals_learning_class_method.dll
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/bin/Debug/netcoreapp3.1/Fundamentals_learning_class_method.pdb
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/obj/Debug/netcoreapp3.1/Fundamentals_learning_class_method.csprojAssemblyReference.cache
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/obj/Debug/netcoreapp3.1/Fundamentals_learning_class_method.AssemblyInfoInputs.cache
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/obj/Debug/netcoreapp3.1/Fundamentals_learning_class_method.AssemblyInfo.cs
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/obj/Debug/netcoreapp3.1/Fundamentals_learning_class_method.csproj.CoreCompileInputs.cache
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/obj/Debug/netcoreapp3.1/Fundamentals_learning_class_method.dll
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/obj/Debug/netcoreapp3.1/Fundamentals_learning_class_method.pdb
+/Users/a/Desktop/Kursai/Fundamentals_learning_class_method/obj/Debug/netcoreapp3.1/Fundamentals_learning_class_method.genruntimeconfig.cache
